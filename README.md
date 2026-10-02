@@ -105,16 +105,6 @@ pip install mk-ssl
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kia-vadaei&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
-
 ## 🏙️ Contribution Skyline
 
 <div align="center">
