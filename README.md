@@ -79,11 +79,17 @@ pip install mk-ssl
 
 ## 🧰 Languages & Tools
 
-<div align="center">
+<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,cs,django,dotnet,flutter,qt,linux,git,vscode,arduino&theme=dark" />
+<br/>
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,pytorch,cpp,cs,django,dotnet&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=flutter,qt,linux,git,vscode,arduino&theme=dark" />
+
+<br clear="right"/>
 
 ---
 
